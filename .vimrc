@@ -107,8 +107,9 @@ call plug#begin('~/.vim/plugged')
 call plug#end()
 
 " }}}
+
 " Setting colorscheme
-colorscheme dracula
+colorscheme molokai 
 
 " MAPPINGS --------------------------------------------------------------- {{{
 
